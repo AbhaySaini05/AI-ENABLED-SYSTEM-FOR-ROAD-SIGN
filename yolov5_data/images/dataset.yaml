@@ -1,5 +1,0 @@
-path: C:\coding\minor project\AI ENABLED SYSTEM FOR ROAD SIGN\images_2
-train: images/train
-val: images/test  # For inference only - not actual validation
-nc: 43  # UPDATE WITH ACTUAL CLASS COUNT
-names: []  # ADD CLASS NAMES
